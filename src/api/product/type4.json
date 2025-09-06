@@ -1,0 +1,50 @@
+{
+    "code": 1,
+    "data": {
+        "dataList": [
+            {
+                "categoryId": 16,
+                "name": "#HOT",
+                "pid": 4,
+                "cover": "",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1736843721000,
+                "updateDate": 1736843721000,
+                "delFlag": "0"
+            },
+            {
+                "categoryId": 17,
+                "name": "#Spring Festival",
+                "pid": 4,
+                "cover": "",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1736843728000,
+                "updateDate": 1736843728000,
+                "delFlag": "0"
+            }
+        ],
+        "parentDetails": {
+            "categoryId": 4,
+            "name": "Cellular shades",
+            "pid": 0,
+            "cover": "2025011016413348ahP.jpg",
+            "iconImage": "2025010913233575XJP.png",
+            "status": "0",
+            "explain": "Cellular shades, also known as honeycomb shades, are a smart choicefor window treatments.",
+            "pdfFileUrl": "",
+            "sort": 0,
+            "createDate": 1736400214000,
+            "updateDate": 1736400214000,
+            "delFlag": "0"
+        }
+    },
+    "message": "SUCCESS"
+}

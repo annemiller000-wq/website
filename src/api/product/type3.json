@@ -1,0 +1,50 @@
+{
+    "code": 1,
+    "data": {
+        "dataList": [
+            {
+                "categoryId": 13,
+                "name": "#HOT",
+                "pid": 3,
+                "cover": "",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1736839504000,
+                "updateDate": 1736839504000,
+                "delFlag": "0"
+            },
+            {
+                "categoryId": 14,
+                "name": "#Spring Festival",
+                "pid": 3,
+                "cover": "",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1736839504000,
+                "updateDate": 1736839504000,
+                "delFlag": "0"
+            }
+        ],
+        "parentDetails": {
+            "categoryId": 3,
+            "name": "Roller shades",
+            "pid": 0,
+            "cover": "2025011016405263rmS.jpg",
+            "iconImage": "2025010913195148yfy.png",
+            "status": "0",
+            "explain": "Roller shades are a classic and straightforward window treatmentchoice.\nThey consist of a single piece of fabric that rolls up and down smoothly.",
+            "pdfFileUrl": "",
+            "sort": 0,
+            "createDate": 1736399990000,
+            "updateDate": 1736399990000,
+            "delFlag": "0"
+        }
+    },
+    "message": "SUCCESS"
+}

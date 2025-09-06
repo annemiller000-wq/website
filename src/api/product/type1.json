@@ -1,0 +1,50 @@
+{
+    "code": 1,
+    "data": {
+        "dataList": [
+            {
+                "categoryId": 2,
+                "name": "#Spring Festival",
+                "pid": 1,
+                "cover": "2024123110523473zYX.jpeg",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1735549169000,
+                "updateDate": 1735549169000,
+                "delFlag": "0"
+            },
+            {
+                "categoryId": 12,
+                "name": "#HOT",
+                "pid": 1,
+                "cover": "",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1736565694000,
+                "updateDate": 1736565694000,
+                "delFlag": "0"
+            }
+        ],
+        "parentDetails": {
+            "categoryId": 1,
+            "name": "custom notebooks/planners/Journals",
+            "pid": 0,
+            "cover": "20250110163913992j8.jpg",
+            "iconImage": "2025010909381175EYS.png",
+            "status": "0",
+            "explain": "",
+            "pdfFileUrl": "2024080614395434his.pdf",
+            "sort": 0,
+            "createDate": 1735546320000,
+            "updateDate": 1735546360000,
+            "delFlag": "0"
+        }
+    },
+    "message": "SUCCESS"
+}

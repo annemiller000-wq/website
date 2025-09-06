@@ -1,0 +1,21 @@
+{
+    "code": 1,
+    "data": {
+        "dataList": [],
+        "parentDetails": {
+            "categoryId": 9,
+            "name": "Curtains",
+            "pid": 0,
+            "cover": "202501101651217092d.jpg",
+            "iconImage": "2025010913285699H34.png",
+            "status": "0",
+            "explain": "Our curtains are a perfect combination of style and functionality. Madefrom high-quality fabric, they offer excellent light-blocking and privacyprotection.",
+            "pdfFileUrl": "",
+            "sort": 0,
+            "createDate": 1736400535000,
+            "updateDate": 1736400535000,
+            "delFlag": "0"
+        }
+    },
+    "message": "SUCCESS"
+}

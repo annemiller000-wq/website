@@ -1,0 +1,50 @@
+{
+    "code": 1,
+    "data": {
+        "dataList": [
+            {
+                "categoryId": 18,
+                "name": "#HOT",
+                "pid": 6,
+                "cover": "",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1736845026000,
+                "updateDate": 1736845026000,
+                "delFlag": "0"
+            },
+            {
+                "categoryId": 19,
+                "name": "#Spring Festival",
+                "pid": 6,
+                "cover": "",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1736845048000,
+                "updateDate": 1736845048000,
+                "delFlag": "0"
+            }
+        ],
+        "parentDetails": {
+            "categoryId": 6,
+            "name": "Roman shades",
+            "pid": 0,
+            "cover": "202501101644221456n.jpg",
+            "iconImage": "2025010913255139EdK.png",
+            "status": "0",
+            "explain": "Roman shades are a charming and sophisticated window coveringoption.\nThey feature fabric that folds up in soft, graceful pleats when raised.\ncreating an elegant look.",
+            "pdfFileUrl": "",
+            "sort": 0,
+            "createDate": 1736400350000,
+            "updateDate": 1736400350000,
+            "delFlag": "0"
+        }
+    },
+    "message": "SUCCESS"
+}

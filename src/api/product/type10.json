@@ -1,0 +1,21 @@
+{
+    "code": 1,
+    "data": {
+        "dataList": [],
+        "parentDetails": {
+            "categoryId": 10,
+            "name": "Curtain Poles",
+            "pid": 0,
+            "cover": "20250110165650594Af.png",
+            "iconImage": "2025010913293114Bbm.png",
+            "status": "0",
+            "explain": "Curtain poles are not merely tools for hanging curtains, they areessential elements of home decoration.",
+            "pdfFileUrl": "",
+            "sort": 0,
+            "createDate": 1736400570000,
+            "updateDate": 1736400570000,
+            "delFlag": "0"
+        }
+    },
+    "message": "SUCCESS"
+}

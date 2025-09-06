@@ -1,0 +1,171 @@
+{
+  "code": 1,
+  "data": {
+    "dataList": [
+      {
+        "stId": 1,
+        "name": "Custom Sprial Coil Planner/Journal",
+        "icon": "2025010913255139EdK.png",
+        "createDate": 1722581396000,
+        "updateDate": 1722581396000,
+        "delFlag": "0",
+        "sort": 0,
+        "usServiceFileList": [
+          {
+            "sfId": 19,
+            "stId": 6,
+            "type": "1",
+            "name": "Top Mounted",
+            "fileUrl": "2024080214495712XKE.mp4",
+            "fileCover": "2024080214495788kzF.png",
+            "createDate": 1722581396000,
+            "updateDate": 1722581396000,
+            "delFlag": "0",
+            "sort": 0
+          },
+          {
+            "sfId": 20,
+            "stId": 6,
+            "type": "1",
+            "name": "Side Mounted",
+            "fileUrl": "2024080214495788YDR.mp4",
+            "fileCover": "2024080214495736bbZ.png",
+            "createDate": 1722581396000,
+            "updateDate": 1722581396000,
+            "delFlag": "0",
+            "sort": 1
+          }
+        ]
+      },
+      {
+        "stId": 2,
+        "name": "Custom Linen Fabric Planner/Journal",
+        "icon": "2025010913245053F9G.png",
+        "createDate": 1722581238000,
+        "updateDate": 1722581238000,
+        "delFlag": "0",
+        "sort": 0,
+        "usServiceFileList": [
+          {
+            "sfId": 18,
+            "stId": 5,
+            "type": "1",
+            "name": "Video",
+            "fileUrl": "2024080214471996Ahi.mp4",
+            "fileCover": "20240802144719678Hm.png",
+            "createDate": 1722581238000,
+            "updateDate": 1722581238000,
+            "delFlag": "0",
+            "sort": 0
+          }
+        ]
+      },
+      {
+        "stId": 3,
+        "name": "Custom Pu Leather Planner/Journal",
+        "icon": "2025010913195148yfy.png",
+        "createDate": 1722581153000,
+        "updateDate": 1722581153000,
+        "delFlag": "0",
+        "sort": 0,
+        "usServiceFileList": [
+          {
+            "sfId": 16,
+            "stId": 4,
+            "type": "1",
+            "name": "Top Mounted",
+            "fileUrl": "2024080214455438XBY.mp4",
+            "fileCover": "20240802144554329cN.png",
+            "createDate": 1722581153000,
+            "updateDate": 1722581153000,
+            "delFlag": "0",
+            "sort": 0
+          },
+          {
+            "sfId": 17,
+            "stId": 4,
+            "type": "1",
+            "name": "Side Mounted",
+            "fileUrl": "2024080214455484NdS.mp4",
+            "fileCover": "2024080214455414YFj.png",
+            "createDate": 1722581153000,
+            "updateDate": 1722581153000,
+            "delFlag": "0",
+            "sort": 1
+          }
+        ]
+      },
+      {
+        "stId": 4,
+        "name": "Custom Paper Hardcover Planner/Journal",
+        "icon": "2025010913195148yfy.png",
+        "createDate": 1722580741000,
+        "updateDate": 1722580741000,
+        "delFlag": "0",
+        "sort": 0,
+        "usServiceFileList": [
+          {
+            "sfId": 11,
+            "stId": 2,
+            "type": "1",
+            "name": "Top Mounted",
+            "fileUrl": "2024080214390285KzJ.mp4",
+            "fileCover": "20240802143902612H2.png",
+            "createDate": 1722580741000,
+            "updateDate": 1722580741000,
+            "delFlag": "0",
+            "sort": 0
+          },
+          {
+            "sfId": 12,
+            "stId": 2,
+            "type": "1",
+            "name": "Side Mounted",
+            "fileUrl": "202408021439025371S.mp4",
+            "fileCover": "20240802143902799bi.png",
+            "createDate": 1722580741000,
+            "updateDate": 1722580741000,
+            "delFlag": "0",
+            "sort": 1
+          }
+        ]
+      },
+      {
+        "stId": 5,
+        "name": "Custom Boxes",
+        "icon": "2025010909381175EYS.png",
+        "createDate": 1722567564000,
+        "updateDate": 1722567565000,
+        "delFlag": "0",
+        "sort": 0,
+        "usServiceFileList": [
+          {
+            "sfId": 9,
+            "stId": 1,
+            "type": "1",
+            "name": "Top Mounted",
+            "fileUrl": "202408021436296iXZ.mp4",
+            "fileCover": "2024080214362916S5A.png",
+            "createDate": 1722580589000,
+            "updateDate": 1722580589000,
+            "delFlag": "0",
+            "sort": 0
+          },
+          {
+            "sfId": 10,
+            "stId": 1,
+            "type": "1",
+            "name": "Side Mounted",
+            "fileUrl": "2024080214363055NKC.mp4",
+            "fileCover": "202408021436306w6A.png",
+            "createDate": 1722580589000,
+            "updateDate": 1722580589000,
+            "delFlag": "0",
+            "sort": 1
+          }
+        ]
+      }
+    ]
+  },
+  "message": "SUCCESS"
+}

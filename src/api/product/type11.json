@@ -1,0 +1,21 @@
+{
+    "code": 1,
+    "data": {
+        "dataList": [],
+        "parentDetails": {
+            "categoryId": 11,
+            "name": "Curtains Tracks",
+            "pid": 0,
+            "cover": "2025011016583444zbw.jpg",
+            "iconImage": "2025010913302257Gn2.png",
+            "status": "0",
+            "explain": "Curtains Tracks are an ingenious solutionmanaging your curtains. These tracks offto open and close your curtains with ease",
+            "pdfFileUrl": "",
+            "sort": 0,
+            "createDate": 1736400621000,
+            "updateDate": 1736400621000,
+            "delFlag": "0"
+        }
+    },
+    "message": "SUCCESS"
+}

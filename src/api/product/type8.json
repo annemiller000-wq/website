@@ -1,0 +1,50 @@
+{
+    "code": 1,
+    "data": {
+        "dataList": [
+            {
+                "categoryId": 20,
+                "name": "#HOT",
+                "pid": 8,
+                "cover": "",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1736846215000,
+                "updateDate": 1736846215000,
+                "delFlag": "0"
+            },
+            {
+                "categoryId": 21,
+                "name": "#Spring Festival",
+                "pid": 8,
+                "cover": "",
+                "iconImage": "",
+                "status": "0",
+                "explain": "",
+                "pdfFileUrl": "",
+                "sort": 0,
+                "createDate": 1736846239000,
+                "updateDate": 1736846239000,
+                "delFlag": "0"
+            }
+        ],
+        "parentDetails": {
+            "categoryId": 8,
+            "name": "Shangri-La Blinds",
+            "pid": 0,
+            "cover": "20250110164638379A5.jpg",
+            "iconImage": "2025010913280796B93.png",
+            "status": "0",
+            "explain": "Shangri-La Blinds are a remarkable window treatment option thatcombines functionality with aesthetic appeal. These blinds offer aunique",
+            "pdfFileUrl": "",
+            "sort": 0,
+            "createDate": 1736400486000,
+            "updateDate": 1736400486000,
+            "delFlag": "0"
+        }
+    },
+    "message": "SUCCESS"
+}

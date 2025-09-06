@@ -1,0 +1,21 @@
+{
+    "code": 1,
+    "data": {
+        "dataList": [],
+        "parentDetails": {
+            "categoryId": 7,
+            "name": "Vertical blinds",
+            "pid": 0,
+            "cover": "2025011016455850AW3.jpg",
+            "iconImage": "2025010913264153p7z.png",
+            "status": "0",
+            "explain": "Vertical blinds are a practical and flexible choice for window coverings\nComposed of long, vertical slats that can be rotated and moved along atrack, they offer easy control over light and privacy.",
+            "pdfFileUrl": "",
+            "sort": 0,
+            "createDate": 1736400400000,
+            "updateDate": 1736400400000,
+            "delFlag": "0"
+        }
+    },
+    "message": "SUCCESS"
+}
