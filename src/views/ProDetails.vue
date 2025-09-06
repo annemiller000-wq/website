@@ -335,7 +335,6 @@ export default {
     },
   },
   beforeRouteUpdate(to, from, next) {
-    // console.log("beforeRoute", to, from, next);
     this.productId = to.query.productId;
     this.p6Choose = 0;
     this.getDetails(this.productId);
@@ -375,9 +374,9 @@ export default {
     },
 
     getDetails(id) {
-      // console.log("getDetails", id);
+
       usProductDetailsV1(id).then((res) => {
-        // console.log(res);
+
         if (res.code == 1) {
           this.dataDetails = res.data.dataDetails;
           this.caseList = res.data.dataDetails.usProductCaseList;

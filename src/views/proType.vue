@@ -63,7 +63,7 @@ export default {
     };
   },
   beforeRouteUpdate(to, from, next) {
-    // console.log("beforeRoute", to, from, next);
+
     this.pid = to.query.pid;
     this.categoryId = "";
     this.getTypeList(this.pid);
@@ -115,10 +115,10 @@ export default {
       ];
 
     },
-    getProList(id1, id2) {
+    getProList(id1) {
       var res= require('../api/product/product'+id1+'.json');
       this.proList = res.data.dataList;
-      console.log(id2);
+
 
     },
   },

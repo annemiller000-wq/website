@@ -183,7 +183,6 @@ export default {
     },
 
     toDownload(id) {
-      // console.log(id, ">>>>");
       this.categoryId = id;
       this.form = {
         email: "",

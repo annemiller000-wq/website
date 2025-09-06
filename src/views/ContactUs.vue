@@ -88,7 +88,6 @@ export default {
     };
   },
   activated() {
-    // console.log("activated");
     this.$nextTick(() => {
       this.form = {
         name: "",

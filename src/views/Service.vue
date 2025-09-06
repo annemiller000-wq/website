@@ -74,7 +74,6 @@ export default {
     },
     getServiceList() {
       var res= require('../api/service.json');
-      console.log(res.data.dataList)
       this.serviceList =res.data.dataList;
     },
 

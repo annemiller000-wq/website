@@ -61,7 +61,6 @@ export default {
       this.scrollTimer = setTimeout(() => {
         this.currentScroll = window.pageYOffset;
         let navTop = this.$refs.nav.offsetTop;
-        // console.log(this.currentScroll - navTop);
         if (this.currentScroll > 0 && this.currentScroll - navTop > 23) {
           this.scrollFlag = true;
         } else {
