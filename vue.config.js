@@ -11,4 +11,21 @@ module.exports = {
   devServer: {
     open: true,
   },
+  configureWebpack: {
+    performance: {
+      hints: false
+    },
+    optimization: {
+      splitChunks: {
+        chunks: 'all',
+        cacheGroups: {
+          vendor: {
+            test: /[\\/]node_modules[\\/]/,
+            name: 'vendors',
+            chunks: 'all'
+          }
+        }
+      }
+    }
+  }
 };
