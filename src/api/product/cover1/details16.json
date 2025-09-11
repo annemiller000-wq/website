@@ -1,0 +1,81 @@
+{
+    "categoryId": 1,
+    "productId": 16,
+    "productName": "Linen Fabric Premium Notebook",
+    "cover": "1.jpg",
+    "usProductImageList": [
+        {
+            "url": "1.jpg",
+            "sort": 0
+        },
+        {
+            "url": "2.jpg",
+            "sort": 1
+        },
+        {
+            "url": "3.jpg",
+            "sort": 2
+        },
+        {
+            "url": "4.jpg",
+            "sort": 3
+        },
+        {
+            "url": "5.jpg",
+            "sort": 4
+        }
+    ],
+    "usProductPictureList": [
+        {
+            "title": "Linen Fabric Premium Notebook",
+            "synopsis": "The cover is linen fabric,colors are optional from our color book.",
+            "url": "1.jpg",
+            "sort": 0
+        },
+        {
+            "title": "Customized Logo",
+            "synopsis": "Your logo can be customized on the cover,printing/embossed or gold foiling logo.",
+            "url": "2.jpg",
+            "sort": 1
+        },
+        {
+            "title": "Package can be customized",
+            "synopsis": "Usually opp bag is free if you want custom box,you can offer your artwork.",
+            "url": "3.jpg",
+            "sort": 2
+        },
+        {
+            "title": "Customized iconnner pages",
+            "synopsis": "The inner pages can be customized according to your design file,PDF,AI both are available",
+            "url": "4.jpg",
+            "sort": 3
+        }
+    ],
+    "usProductSettingList": [
+        {
+            "setTitle": "Color",
+            "usProductSettingChildList": [
+                {
+                    "url": "child/1.jpg"
+                },
+                {
+                    "url": "child/2.jpg"
+                }
+            ]
+        }
+    ],
+    "usProductSizeSettingList": [
+        {
+            "title": "Production range dimensions",
+            "synopsis": "Between 0.8m and 3.8m"
+        },
+        {
+            "title": "Production range dimensions",
+            "synopsis": "Between 0.8m and 3.8m"
+        }
+    ],
+    "usProductSettingSynopsis": {
+        "title": "Production range dimensions",
+        "synopsis": "Durable materials ensure long-lasting use for these shades."
+    }
+}
