@@ -1,1 +1,131 @@
-{"code":1,"data":{"dataList":[]},"message":"SUCCESS"}
+{
+  "name": "custom notebooks/planners/Journals",
+  "dataList": [
+    {
+      "productId": 1,
+      "categoryId": 1,
+      "productName": "Linen Fabric Premium Notebook",
+      "cover": "cover9/details1/0.jpg"
+    },
+    {
+      "productId": 2,
+      "categoryId": 1,
+      "productName": "Bullet Dot Journal  A5 Notebook",
+      "cover": "cover9/details2/0.jpg"
+    },
+    {
+      "productId": 3,
+      "categoryId": 1,
+      "productName": "12 Week Health and Fitness Planner",
+      "cover": "cover9/details3/0.jpg"
+    },
+    {
+      "productId": 4,
+      "categoryId": 1,
+      "productName": "2024 Planner Weekly and Monthly – Small Pink",
+      "cover": "cover9/details4/0.jpg"
+    },
+    {
+      "productId": 5,
+      "categoryId": 1,
+      "productName": "A5 Wildlife Notebook Journal",
+      "cover": "cover9/details5/0.jpg"
+    },
+    {
+      "productId": 6,
+      "categoryId": 1,
+      "productName": "Bullet Planner Dotted Journal  A5",
+      "cover": "cover9/details6/0.jpg"
+    },
+    {
+      "productId": 7,
+      "categoryId": 1,
+      "productName": "Classic Executive Dotted Notebook",
+      "cover": "cover9/details7/0.jpg"
+    },
+    {
+      "productId": 8,
+      "categoryId": 1,
+      "productName": "Classic Soft Cover Notebook",
+      "cover": "cover9/details8/0.jpg"
+    },
+    {
+      "productId": 9,
+      "categoryId": 1,
+      "productName": "Dotted Journal a5",
+      "cover": "cover9/details9/0.jpg"
+    },
+    {
+      "productId": 10,
+      "categoryId": 1,
+      "productName": "Scribble Dot Bullet Dotted Journal",
+      "cover": "cover9/details10/0.jpg"
+    },
+    {
+      "productId": 11,
+      "categoryId": 1,
+      "productName": "Faxu Leather Hardcover with UV printing A5 160gsm",
+      "cover": "cover9/details11/0.jpg"
+    },
+    {
+      "productId": 12,
+      "categoryId": 1,
+      "productName": "Minimalism Art Premium Hard Cover Notebook",
+      "cover": "cover9/details12/0.jpg"
+    },
+    {
+      "productId": 13,
+      "categoryId": 1,
+      "productName": "Fitness Journal Workout Planner for Men & Women",
+      "cover": "cover9/details13/0.jpg"
+    },
+    {
+      "productId": 14,
+      "categoryId": 1,
+      "productName": "A5 bullet dotted journal dot grid",
+      "cover": "cover9/details14/0.jpg"
+    },
+    {
+      "productId": 15,
+      "categoryId": 1,
+      "productName": "A5 Dot Grid Journal",
+      "cover": "cover9/details15/0.jpg"
+    },
+    {
+      "productId": 16,
+      "categoryId": 1,
+      "productName": "Classic Premium Bullet Grid Journal",
+      "cover": "cover9/details16/0.jpg"
+    },
+    {
+      "productId": 17,
+      "categoryId": 1,
+      "productName": "Dotted Journal – 160gs",
+      "cover": "cover9/details17/0.jpg"
+    },
+    {
+      "productId": 18,
+      "categoryId": 1,
+      "productName": "Dotted Journal Notebook",
+      "cover": "cover9/details18/0.jpg"
+    },
+    {
+      "productId": 19,
+      "categoryId": 1,
+      "productName": "Dotted Journal Notebook  A5 Hardcover Journal",
+      "cover": "cover9/details19/0.jpg"
+    },
+    {
+      "productId": 20,
+      "categoryId": 1,
+      "productName": "Faxu Leather Journal Notebook",
+      "cover": "cover9/details20/0.jpg"
+    },
+    {
+      "productId": 21,
+      "categoryId": 1,
+      "productName": "Pu Leather Notebook",
+      "cover": "cover9/details21/0.jpg"
+    }
+  ]
+}

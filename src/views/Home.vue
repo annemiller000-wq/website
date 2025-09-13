@@ -50,13 +50,6 @@
             <div class="home-img-text" :class="getContentColor1(i)">
               {{ v.name }}
             </div>
-            <div
-              v-if="v.pdfFileUrl"
-              class="home-img-btn black-hover-border"
-              @click="toDownload(v.categoryId)"
-            >
-              Download Producet PDF <span class="swiper-text">></span>
-            </div>
           </div>
         </div>
         <div class="home-img-list2">
@@ -68,13 +61,6 @@
             />
             <div class="home-img-text" :class="getContentColor2(i)">
               {{ v.name }}
-            </div>
-            <div
-              v-if="v.pdfFileUrl"
-              class="home-img-btn black-hover-border"
-              @click="toDownload(v.categoryId)"
-            >
-              Download Producet PDF <span class="swiper-text">></span>
             </div>
           </div>
         </div>

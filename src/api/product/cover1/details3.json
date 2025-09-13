@@ -29,25 +29,25 @@
         {
             "title": "Linen Fabric Premium Notebook",
             "synopsis": "The cover is linen fabric,colors are optional from our color book.",
-            "url": "1.jpg",
+            "url": "6.jpg",
             "sort": 0
         },
         {
             "title": "Customized Logo",
             "synopsis": "Your logo can be customized on the cover,printing/embossed or gold foiling logo.",
-            "url": "2.jpg",
+            "url": "7.jpg",
             "sort": 1
         },
         {
             "title": "Package can be customized",
             "synopsis": "Usually opp bag is free if you want custom box,you can offer your artwork.",
-            "url": "3.jpg",
+            "url": "8.jpg",
             "sort": 2
         },
         {
             "title": "Customized iconnner pages",
             "synopsis": "The inner pages can be customized according to your design file,PDF,AI both are available",
-            "url": "4.jpg",
+            "url": "9.jpg",
             "sort": 3
         }
     ],
@@ -55,12 +55,7 @@
         {
             "setTitle": "Color",
             "usProductSettingChildList": [
-                {
-                    "url": "child/1.jpg"
-                },
-                {
-                    "url": "child/2.jpg"
-                }
+
             ]
         }
     ],

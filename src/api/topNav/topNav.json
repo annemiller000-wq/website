@@ -8,13 +8,8 @@
         "pid": 0,
         "cover": "20250110163913992j8.jpg",
         "iconImage": "2025010909381175EYS.png",
-        "status": "0",
         "explain": "试试Zebra shades are an innovative and attractive window covering option.\nThey feature alternating sheer and solid fabric stripes, creating avisually appealing and unique look.",
-        "pdfFileUrl": "2024080614395434his.pdf",
-        "sort": 0,
-        "createDate": 1735546320000,
-        "updateDate": 1735546360000,
-        "delFlag": "0"
+        "sort": 0
       },
       {
         "categoryId": 3,
@@ -22,13 +17,8 @@
         "pid": 0,
         "cover": "2025011016405263rmS.jpg",
         "iconImage": "2025010913195148yfy.png",
-        "status": "0",
         "explain": "Roller shades are a classic and straightforward window treatmentchoice.\nThey consist of a single piece of fabric that rolls up and down smoothly.",
-        "pdfFileUrl": "",
-        "sort": 0,
-        "createDate": 1736399990000,
-        "updateDate": 1736399990000,
-        "delFlag": "0"
+        "sort": 0
       },
       {
         "categoryId": 4,
@@ -36,13 +26,8 @@
         "pid": 0,
         "cover": "2025011016413348ahP.jpg",
         "iconImage": "2025010913233575XJP.png",
-        "status": "0",
         "explain": "Cellular shades, also known as honeycomb shades, are a smart choicefor window treatments.",
-        "pdfFileUrl": "",
-        "sort": 0,
-        "createDate": 1736400214000,
-        "updateDate": 1736400214000,
-        "delFlag": "0"
+        "sort": 0
       },
       {
         "categoryId": 5,
@@ -50,13 +35,8 @@
         "pid": 0,
         "cover": "2025011016434661M74.jpg",
         "iconImage": "2025010913245053F9G.png",
-        "status": "0",
         "explain": "Aluminum blinds are a popular choice for window coverings\nMade from lightweight yet durable aluminum, they are built to last.",
-        "pdfFileUrl": "",
-        "sort": 0,
-        "createDate": 1736400289000,
-        "updateDate": 1736400289000,
-        "delFlag": "0"
+        "sort": 0
       },
       {
         "categoryId": 6,
@@ -64,13 +44,8 @@
         "pid": 0,
         "cover": "202501101644221456n.jpg",
         "iconImage": "2025010913255139EdK.png",
-        "status": "0",
         "explain": "Roman shades are a charming and sophisticated window coveringoption.\nThey feature fabric that folds up in soft, graceful pleats when raised.\ncreating an elegant look.",
-        "pdfFileUrl": "",
-        "sort": 0,
-        "createDate": 1736400350000,
-        "updateDate": 1736400350000,
-        "delFlag": "0"
+        "sort": 0
       },
       {
         "categoryId": 7,
@@ -78,13 +53,9 @@
         "pid": 0,
         "cover": "2025011016455850AW3.jpg",
         "iconImage": "2025010913264153p7z.png",
-        "status": "0",
         "explain": "Vertical blinds are a practical and flexible choice for window coverings\nComposed of long, vertical slats that can be rotated and moved along atrack, they offer easy control over light and privacy.",
-        "pdfFileUrl": "",
-        "sort": 0,
-        "createDate": 1736400400000,
-        "updateDate": 1736400400000,
-        "delFlag": "0"
+
+        "sort": 0
       },
       {
         "categoryId": 8,
@@ -92,13 +63,9 @@
         "pid": 0,
         "cover": "20250110164638379A5.jpg",
         "iconImage": "2025010913280796B93.png",
-        "status": "0",
         "explain": "Shangri-La Blinds are a remarkable window treatment option thatcombines functionality with aesthetic appeal. These blinds offer aunique",
-        "pdfFileUrl": "",
-        "sort": 0,
-        "createDate": 1736400486000,
-        "updateDate": 1736400486000,
-        "delFlag": "0"
+
+        "sort": 0
       },
       {
         "categoryId": 9,
@@ -106,13 +73,9 @@
         "pid": 0,
         "cover": "202501101651217092d.jpg",
         "iconImage": "2025010913285699H34.png",
-        "status": "0",
         "explain": "Our curtains are a perfect combination of style and functionality. Madefrom high-quality fabric, they offer excellent light-blocking and privacyprotection.",
-        "pdfFileUrl": "",
-        "sort": 0,
-        "createDate": 1736400535000,
-        "updateDate": 1736400535000,
-        "delFlag": "0"
+
+        "sort": 0
       },
       {
         "categoryId": 10,
@@ -120,13 +83,9 @@
         "pid": 0,
         "cover": "20250110165650594Af.png",
         "iconImage": "2025010913293114Bbm.png",
-        "status": "0",
         "explain": "Curtain poles are not merely tools for hanging curtains, they areessential elements of home decoration.",
-        "pdfFileUrl": "",
-        "sort": 0,
-        "createDate": 1736400570000,
-        "updateDate": 1736400570000,
-        "delFlag": "0"
+
+        "sort": 0
       },
       {
         "categoryId": 11,
@@ -134,13 +93,9 @@
         "pid": 0,
         "cover": "2025011016583444zbw.jpg",
         "iconImage": "2025010913302257Gn2.png",
-        "status": "0",
         "explain": "Curtains Tracks are an ingenious solutionmanaging your curtains. These tracks offto open and close your curtains with ease",
-        "pdfFileUrl": "",
-        "sort": 0,
-        "createDate": 1736400621000,
-        "updateDate": 1736400621000,
-        "delFlag": "0"
+
+        "sort": 0
       }
     ]
   },

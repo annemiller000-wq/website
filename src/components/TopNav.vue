@@ -32,22 +32,6 @@ export default {
     };
   },
   mounted() {
-    this.$nextTick(() => {
-      window.addEventListener("scroll", this.handleScroll);
-      // 获取目标元素
-      const myElements = document.getElementsByClassName("nav-li1");
-      const dropdown = document.getElementsByClassName("nav-li-pro")[0];
-
-      // 添加事件监听器
-      for (let i = 0; i < myElements.length; i++) {
-        myElements[i].addEventListener("mouseenter", () => {
-          dropdown.classList.add("show");
-        });
-        myElements[i].addEventListener("mouseleave", () => {
-          dropdown.classList.remove("show");
-        });
-      }
-    });
     this.getData();
   },
   beforeDestroy() {

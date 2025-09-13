@@ -54,14 +54,7 @@
     "usProductSettingList": [
         {
             "setTitle": "Color",
-            "usProductSettingChildList": [
-                {
-                    "url": "child/1.jpg"
-                },
-                {
-                    "url": "child/2.jpg"
-                }
-            ]
+            "usProductSettingChildList": []
         }
     ],
     "usProductSizeSettingList": [

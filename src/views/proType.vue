@@ -2,20 +2,9 @@
 <template>
   <div class="main">
     <div class="type-top">
-      <div class="top-title">{{ parentDetails.name }}</div>
+      <div class="top-title">{{ name }}</div>
     </div>
     <div class="type-mian">
-      <div class="type-left">
-        <div
-          class="type-item"
-          v-for="(item, index) in typeList"
-          :key="index"
-          :class="[item.categoryId == categoryId && 'type-item-active']"
-          @click="changeType(item.categoryId)"
-        >
-          {{ item.name }}
-        </div>
-      </div>
       <div class="type-right">
         <div class="type-right-num">{{ proList.length }} Item(s) Found</div>
         <div class="type-pro-list" v-if="proList.length > 0">
@@ -23,7 +12,7 @@
             class="type-pro-item"
             v-for="(item, index) in proList"
             :key="index"
-            @click="toProDetail(item.productId)"
+            @click="toProDetail(item.categoryId,item.productId)"
           >
             <img
               :src="require(`@/assets/images/product/${item.cover}`)"
@@ -51,14 +40,8 @@ export default {
     return {
       pid: "",
       categoryId: "",
-      typeList: [
-        {
-          categoryId: "",
-          name: "All",
-        },
-      ],
       proList: [],
-      parentDetails: {},
+      name: "",
       ipAddress: "",
     };
   },
@@ -66,16 +49,14 @@ export default {
 
     this.pid = to.query.pid;
     this.categoryId = "";
-    this.getTypeList(this.pid);
-    this.getProList(this.pid, this.categoryId);
+    this.getProList(this.pid);
     next();
   },
   activated() {
     this.pid = this.$route.query.pid;
     this.categoryId = "";
     this.getIpInfo();
-    this.getTypeList(this.pid);
-    this.getProList(this.pid, this.categoryId);
+    this.getProList(this.pid);
   },
   methods: {
     getIpInfo() {
@@ -88,9 +69,9 @@ export default {
         behavior: "smooth", // 可选,设置为 'smooth' 可以使滚动动画平滑
       });
       this.categoryId = id;
-      this.getProList(this.pid, this.categoryId);
+      this.getProList(this.pid);
     },
-    toProDetail(id) {
+    toProDetail(categoryId,id) {
       window.scrollTo({
         top: 0,
         behavior: "smooth", // 可选,设置为 'smooth' 可以使滚动动画平滑
@@ -98,28 +79,16 @@ export default {
       this.$router.push({
         name: "ProDetails",
         query: {
+          categoryId: categoryId,
           productId: id,
         },
       });
     },
-    getTypeList(id) {
-      var res= require('../api/product/type'+id+'.json');
 
-      this.parentDetails = res.data.parentDetails;
-      this.typeList = [
-        {
-          categoryId: "",
-          name: "All",
-        },
-        ...res.data.dataList,
-      ];
-
-    },
-    getProList(id1) {
-      var res= require('../api/product/product'+id1+'.json');
-      this.proList = res.data.dataList;
-
-
+    getProList(id) {
+      var res= require('../api/product/product'+id+'.json');
+      this.proList = res.dataList;
+      this.name =res.name;
     },
   },
 };

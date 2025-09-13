@@ -35,22 +35,20 @@
               <img
                 :src="require(`@/assets/images/icon/web_icon_play@2x.png`)"
                 class="ser-video-play"
-                @click="playVideo( require(`@/assets/images/space006/${v.fileUrl}`))"
               />
             </div>
           </div>
         </el-collapse-item>
       </el-collapse>
     </div>
-    <VideoModal ref="videoModal" :src="videoSrc" />
   </div>
 </template>
 <script>
 
-import VideoModal from "@/components/VideoModal.vue";
+
 export default {
   name: "Service",
-  components: { VideoModal },
+  components: {  },
   data() {
     return {
       videoSrc: "",
@@ -77,10 +75,6 @@ export default {
       this.serviceList =res.data.dataList;
     },
 
-    playVideo(videoSrc) {
-      this.videoSrc = videoSrc;
-      this.$refs.videoModal.openModal();
-    },
 
   },
 };

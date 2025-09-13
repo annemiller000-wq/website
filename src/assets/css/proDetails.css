@@ -18,9 +18,10 @@
 .pro-part1-l {
   width: 780px;
   margin-right: 40px;
+  border: 1px solid #c1c1ce;
 }
 .pro-part1-lt-pic {
-  width: 780px;
+  width: 777px;
   height: 780px;
   display: block;
   border-radius: 10px;
