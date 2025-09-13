@@ -89,8 +89,6 @@ import TopNav from "./components/TopNav";
 Vue.component(TopNav.name, TopNav);
 import BotFooter from "./components/BotFooter";
 Vue.component(BotFooter.name, BotFooter);
-import ImageView from './components/imageView/index.vue'
-Vue.component('XtxImageView', ImageView);
 Vue.config.productionTip = false;
 
 new Vue({
